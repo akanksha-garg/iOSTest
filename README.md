@@ -66,4 +66,4 @@ Project is pushed in GitHub repo on develop branch.  ()
 
 ![alt](./Screenshot1.png "HomeScreen")
 ![alt](./Screenshot2.png "DetailScreen")
-![alt](./Screenshot2.png "BackpackScreen")
+![alt](./Screenshot3.png "BackpackScreen")
